@@ -6,7 +6,9 @@
 * TTPY: time to pay yourself (days) based on price (lower better)
 
 ## Prints 
-![before](https://user-images.githubusercontent.com/47106171/133889173-d0432a1c-1a6d-47d1-ab93-0a48bfcd9335.png)
-![after](https://user-images.githubusercontent.com/47106171/133889175-320eca71-12b4-472b-ab7c-b22073874848.png)
+![after](https://user-images.githubusercontent.com/47106171/133889212-0eb13511-c91a-4c59-b14c-b04d430b819d.png)
+![before](https://user-images.githubusercontent.com/47106171/133889206-932533eb-5529-40e5-8008-ae6b2dba3249.png)
+
+
 
 
